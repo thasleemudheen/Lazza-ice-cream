@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  font-family:'Open Sans Condensed', sans-serif; 
+}
+a{
+    text-decoration: none;
+}
+.header{
+    height: 95px;
+    width: 100%;
+    background-color:black;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    width: 1413px;
+    height: 95px;
+    margin-left: 60px;
+    justify-content:space-between;    
+}
+.nav img{
+    height: 65px;
+    width: 125x;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.navbar{
+    padding: 33px;
+    justify-content: space-around;
+    letter-spacing: -1px;
+    margin-left: 650px;
+}
+.navbar a{
+    margin-left: 10px;
+    color: white;
+}
+.navside img{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+}
+.image-sheet img{
+    height: 720px;
+    width: 100%;
+}
+.menu-sheet{
+    height: 1300px;
+    width: 100%;
+    padding-top: 140px;    
+}
+.heading{
+    height:1229px ;
+    width: 1250px ;
+    margin-left: 130px;
+    text-align: center;    
+}
+.heading h1{
+    font-size: 46px;
+    font-weight: 500;
+    color:black;
+    margin-bottom: 20px;
+}
+.raw1{
+    height: 374px;
+    width: 406px;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.raw1 img{
+    width: fit-content;
+    height:295px;
+}
+.raw1 h3{
+    font-size: 24px;
+    font-weight: 500;
+}
+.last-section{
+    height: 235px;
+    width: 100%;
+    background-color:#be9509;
+    
+}
+.last-section img{
+    width: 1220px;
+    margin-top: 20px;
+    margin-left: 135px;
+}
+.footer{
+    height: 221px;
+    width: 100%;
+    background-color:black;
+    padding-top: 20px;
+    border-bottom: 1px solid gray; 
+}
+.inside-footer{
+    width: 1250px;
+    height: 181px;
+    background-color:black;
+    margin-left: 120px;
+    display: flex;
+    padding-top: 10px; 
+      
+}
+.content{
+    height: 181px;
+    width: 203px;
+}
+.content img{
+    height: 140px;
+    width: 160px;
+}
+.content-text{
+    height: 181px;
+    width: 203px;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -1px;
+    color: #be9509;
+}
+.content-text img{
+    height: 33px;
+    width: 33px;
+}
+.last{
+    height:68px ;
+    width: 100%;
+    background-color:black;
+    font-size: 16px;
+    display: block;
+    /* justify-content: center; */
+    color: #be9509;
+    padding-top: 20px;
+
+}
+.last p{
+    margin-left: 50px;
+    
+
+}
+
+
+
+    
+
+
+ 
